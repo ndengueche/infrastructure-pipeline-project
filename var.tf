@@ -5,5 +5,5 @@ variable "instance_type" {
   default = "t2.micro"
 }
 variable "ec2_name_tag" {
-  default = "balls for balls"
+  default = "balls for balls for balls"
 }
